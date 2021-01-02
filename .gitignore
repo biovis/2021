@@ -1,0 +1,7 @@
+_site/
+.sass-cache/
+_deploy/
+/Gemfile.lock
+*.sublime-*
+css/site.css
+.DS_Store

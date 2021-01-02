@@ -1,0 +1,11 @@
+{% for talk in site.data.papers %}
+{% if talk.id == include.key %}
+
+<div class="talk">
+    <div class="ttitle">Paper: {{talk.title}}</div>
+    <div><span class="tspeaker">{{talk.authors}}</span></div>
+    <br>
+    <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
+</div>
+{% endif %}
+{% endfor %}

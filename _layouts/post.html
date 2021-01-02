@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="breadcrumbs moduletable">
+    <ul class="breadcrumb">
+        <li class="active">You are here: &nbsp;</li>
+        <li><a href="{{ site.baseurl }}/" class="pathway">Home</a> |</li>
+        {% if page.back_title %}
+        <li><a href="{{ site.baseurl }}/{{page.back_url}}" class="pathway">{{page.back_title}}</a> |</li>
+        {% endif %}
+        <li class="active"><span>{{ page.title }}</span></li>
+    </ul>
+</div>
+
+<div class="blue-section">
+    <h3 itemprop="name">{{ page.title }}</h3>
+    <p>
+        <i>Published {{ page.date | date: "%b %-d, %Y" }}</i>
+    </p>
+    <span class="author">{% if page.author %} {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span> </p>
+</div>
+
+<div class="container">
+
+    <div class="post">
+
+        <article class="post-content-main">
+            {{ content }}
+        </article>
+    </div>
+</div>
+

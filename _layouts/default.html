@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="site">
+
+    {% include header.html %}
+
+    {{ content }}
+
+{% include footer.html %}
+
+{% if site.use_analytics == true %}
+{% include google_analytics.html %}
+{% endif %}
+
+</body>
+</html>

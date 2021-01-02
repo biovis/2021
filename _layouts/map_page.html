@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="green-section">
+  <img src="{{site.baseurl}}/images/logos/{{page.logo}}" width="140px">
+  <h3 itemprop="name">{{ page.title }}</h3>
+  <p>{% if page.date %}{{page.date}},{% endif %} {{ page.location }} - {{ page.main_venue_rln }} with <a href="{{ page.main_venue_url }}">{{page.main_venue}}</a></p>
+</div>
+
+<!--
+<div id="map">
+
+</div>
+
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="{{site.baseurl}}/scripts/map.js"></script>
+-->
+<div class="container">
+{{ content }}
+</div>
