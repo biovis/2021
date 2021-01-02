@@ -2,10 +2,10 @@
 layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
-location: July 15, Montreal, Canada
+location: within July 25-29, Lyon, France
 main_venue_rln: Co-located
-main_venue: ISMB 2020
-main_venue_url: https://www.iscb.org/ismb2020
+main_venue: ISMB 2021
+main_venue_url: https://www.iscb.org/ismbeccb2021
 permalink: /ismb/
 ---
 <!--<br>
@@ -29,13 +29,13 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
         <i class="material-icons large">border_color</i>
         <h3>Registration</h3>
-        <a class="btn waves-effect waves-light" href="https://www.iscb.org/ismb2020-registration" type="submit" name="action">Register</a>
+        <a class="btn disabled waves-effect waves-light" href="https://www.iscb.org/ismb2020-registration" type="submit" name="action">Register</a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">list</i>
      <h3>Main Program</h3>
-     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
+     <a class="btn disabled waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
     </div>
 </div>
 
@@ -48,9 +48,9 @@ permalink: /ismb/
             <h4 id="ismbImportantDates">Important Dates</h4>
              <p><strong>ISMB COSI date:</strong>  {{ site.ISMBconferencedate }} </p>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
-			<p><strong>Talk Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
+			<p><strong>Talk Submission Deadline:</strong> {{ site.ismb_talk_submission_deadline}}</p>  
             <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-			<p><a href="http://www.iscb.org/ismb2020-keydates">See ISMB Key Dates for more details</a></p>
+			<p><a href="{{ site.ismblink }}-keydates">See ISMB Key Dates for more details</a></p>
       </div>
 
 

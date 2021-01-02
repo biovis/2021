@@ -48,7 +48,7 @@ layout: home
 					<div class="event-date">
 						<strong>ISMB COSI Date:</strong> {{ site.ISMBconferencedate }} <br/>
 						<strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }} <br/>
-						<strong>ISMB Talk Submission Deadline:</strong>  {{ site.ismb_abstract_submission_deadline }} <br/>
+						<strong>ISMB Talk Submission Deadline:</strong>  {{ site.ismb_talk_submission_deadline }} <br/>
 						<strong>ISMB Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }} <br/>
 						<a href="{{&$site.ismblink}}-keydates" style="color:#2c3e50; text-decoration: underline;">See ISMB Key Dates for more details</a>
 					</div>
