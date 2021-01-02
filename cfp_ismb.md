@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Participation at the BioVis@ISMB 2020
+title: Call for Participation at the BioVis@ISMB 2021
 permalink: /cfp_ismb/
 back_title: ISMB
 back_url: ismb
@@ -89,13 +89,13 @@ See [ISMB Key Dates](https://www.iscb.org/ismbeccb2021-keydates) for full detail
 
 ### Deadlines and Notifications for ISMB Proceedings
 
-Submission Deadline : January 28, 2021
-Conditional Acceptance Notification: March 12, 2021
-Revision Deadline: March 26, 2021
+Submission Deadline : January 28, 2021<br>
+Conditional Acceptance Notification: March 12, 2021<br>
+Revision Deadline: March 26, 2021<br>
 Final Acceptance Notification: April 12, 2021
 
 ### Deadlines and Notifications for Talks and Posters/Demos
 
-Submission Deadline: May 6, 2021 (late posters deadline June 3, 2021)
+Submission Deadline: May 6, 2021 (late posters deadline June 3, 2021)<br>
 Acceptance Notification: May 20, 2021
 
