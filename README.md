@@ -1,10 +1,10 @@
-# BioVis 2020 Websites
+# BioVis 2021 Websites
 
-The , version of the BioVis website.
+The 2021 version of the BioVis website.
 
 It uses [Jekyll](http://jekyllrb.com/) as CMS and it is a copy of the 2020 version of the website.
 
-This is compiled by Caleydo Jenkins and pushed to the [Biovis , main website repo](https://github.com/biovis/,).
+This is compiled by Caleydo Jenkins and pushed to the [Biovis 2021 main website repo](https://github.com/biovis/2021).
 
 This is automatically built and moved to the folder of the repository at [https://github.com/biovis/biovis.github.io/](https://github.com/biovis/biovis.github.io/)
 

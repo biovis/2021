@@ -7,31 +7,33 @@ menu: main
 
 ### General chairs
 [Cagatay Turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/), University of Warwick, UK<br />
-[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
+[Michael Krone](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/visuelle-big-data-analytik-in-den-lebenswissenschaften/team/jun-prof-dr-michael-krone/), University of Tübingen, Germany<br />
 
 ### Website chair
-[Jan Byška](http://www.uib.no/personer/Jan.Byska/), Masaryk University, Czech Republic and University of Bergen, Norway<br/>
+[Josiah Seaman](http://Josiahseaman.com), Queen Mary University, UK<br/>
 
 ### Publicity chair
 [Fritz Lekschas](https://compbio.hms.harvard.edu/people/fritz-lekschas/), Harvard University, USA<br/>
 
-### Industry and fundraising chair
-[Will Ray](https://excelsior.asc.ohio-state.edu/~ray/), The Ohio State University, USA<br/>
+
 
 ## BioVis COSI @ ISMB {{$site.year}}
 
 ### Abstracts Chairs
-[Thomas Höllt](https://www.thomashollt.com), Leiden University Medical Center, The Netherlands<br />
-[Michael Krone](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/big-data-visual-analytics-in-life-sciences/group-members/jun-prof-dr-michael-krone/), University of Tübingen, Germany<br/>
 [Danielle Albers](http://danielleszafir.com/) University of Colorado at Boulder, USA<br />
+[Jan Byška](http://www.uib.no/personer/Jan.Byska/), Masaryk University, Czech Republic and University of Bergen, Norway<br/>
+[Helena Jambor](https://helenajambor.wordpress.com/), TU Dresden, Germany<br />
+
 
 ### ISMB Liaison Chairs
+[Jim Procter](https://www.lifesci.dundee.ac.uk/people/jim-procter), University of Dundee, UK<br />
 
 ## BioVis Workshop @ IEEE VIS {{$site.year}}
 
 ### Chairs
-[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), Tableau Research, USA<br />
-[Carolina Nobre](https://vdl.sci.utah.edu/team/nobre/), Harvard School of Engineering and Applied Sciences
+[Zeynep H Gumus](https://icahn.mssm.edu/profiles/zeynep-h-gumus2), Icahn School of Medicine at Mount Sinai, USA<br />
+[Thomas Höllt](https://www.thomashollt.com), Leiden University Medical Center, The Netherlands<br />
+
 
 ## Steering Committee
 [Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
