@@ -2,7 +2,7 @@
 layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
-location: within July 25-29, Lyon, France
+location: within July 25-29, Online
 main_venue_rln: Co-located
 main_venue: ISMB 2021
 main_venue_url: https://www.iscb.org/ismbeccb2021
@@ -54,9 +54,14 @@ permalink: /ismb/
       </div>
 
 
-      <div class="col s12 m6">
+<div class="col s12 m6">
           <h4>Latest News</h4>
+
           <ul class="post-list">
+          <li class="post-list-item-event"><span class="date">Pinned</span><span class="post-list-title"><a class="post-list-link">{{ post.title }}</a></span>                 
+          BioVis 2021 will be hosted exclusively Online</li>
+          
+          
            {% for post in site.posts %}
              {% capture category %}{{post.event}}{% endcapture %}
               {% if category == "ismb" %}
