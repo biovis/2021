@@ -35,7 +35,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">list</i>
      <h3>Main Program</h3>
-     <a class="btn disabled waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
+     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
     </div>
 </div>
 
