@@ -48,8 +48,8 @@ Seán O’Donoghue leads the BioVis Centre (<a href="http://odonoghuelab.org/">h
 
 
 ## Program
-
-#### Please note that all the times listed here are in **Eastern Daylight Time**.
+#### The final programme will be announced in the beginning of June.
+Please note that all the times listed here are in **Eastern Daylight Time**.
 
 <br/>
 

@@ -8,7 +8,7 @@ back_url: ismb
 
 # Call for Participation: BioVis@ISMB 2021
 **Community of Special Interest (COSI) event at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021)**  
-**within July 25-29, 2021**  
+**{{ site.ISMBconferencedate }}**  
 **{{ site.ISMBconferenceplace }}**
 
 
