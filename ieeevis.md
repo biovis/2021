@@ -31,7 +31,7 @@ permalink: /ieeevis/
 <div class="row left-align">
     <div class="col s12 m6">
         <h4>Important Dates</h4>
-        <p>Workshop date: {{@site.IEEEconferencedate}}</p>
+        <p>Workshop date: {{site.IEEEconferencedate}}</p>
     </div>
 
     <div class="col s12 m6">

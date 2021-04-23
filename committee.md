@@ -3,7 +3,7 @@ layout: page
 title: Committees
 menu: main
 ---
-## Organizing Committee for BioVis {{$site.year}}
+## Organizing Committee for BioVis {{site.year}}
 
 ### General chairs
 [Cagatay Turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/), University of Warwick, UK<br />
@@ -17,7 +17,7 @@ menu: main
 
 
 
-## BioVis COSI @ ISMB {{$site.year}}
+## BioVis COSI @ ISMB {{site.year}}
 
 ### Abstracts Chairs
 [Danielle Albers](http://danielleszafir.com/) University of Colorado at Boulder, USA<br />
@@ -28,7 +28,7 @@ menu: main
 ### ISMB Liaison Chairs
 [Jim Procter](https://www.lifesci.dundee.ac.uk/people/jim-procter), University of Dundee, UK<br />
 
-## BioVis Workshop @ IEEE VIS {{$site.year}}
+## BioVis Workshop @ IEEE VIS {{site.year}}
 
 ### Chairs
 [Zeynep H Gumus](https://icahn.mssm.edu/profiles/zeynep-h-gumus2), Icahn School of Medicine at Mount Sinai, USA<br />

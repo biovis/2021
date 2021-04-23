@@ -50,7 +50,7 @@ layout: home
 						<strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }} <br/>
 						<strong>ISMB Talk Submission Deadline:</strong>  {{ site.ismb_talk_submission_deadline }} <br/>
 						<strong>ISMB Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }} <br/>
-						<a href="{{&$site.ismblink}}-keydates" style="color:#2c3e50; text-decoration: underline;">See ISMB Key Dates for more details</a>
+						<a href="{{site.ismblink}}-keydates" style="color:#2c3e50; text-decoration: underline;">See ISMB Key Dates for more details</a>
 					</div>
 				</div>
 			</div>
@@ -183,7 +183,7 @@ layout: home
                         <div class="col s12 m12">
 
                             <h4>Affiliates</h4>
-                            <p> {{ site.conferenceshort }} is an official part of <a href="{{&$site.ismblink}}">ISMB {{$site.year}}</a></p>
+                            <p> {{ site.conferenceshort }} is an official part of <a href="{{site.ismblink}}">ISMB {{site.year}}</a></p>
                             <p>    <a href="https://www.iscb.org">
                                     <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>

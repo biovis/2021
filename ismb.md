@@ -29,7 +29,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
         <i class="material-icons large">border_color</i>
         <h3>Registration</h3>
-        <a class="btn disabled waves-effect waves-light" href="https://www.iscb.org/ismb2020-registration" type="submit" name="action">Register</a>
+        <a class="btn waves-effect waves-light" href="https://www.iscb.org/ismbeccb2021-registration" type="submit" name="action">Register</a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
@@ -78,6 +78,7 @@ permalink: /ismb/
              {% endfor %}
            </ul>
       </div>
+</div>
 </div>
 
 <br/>
