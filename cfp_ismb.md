@@ -70,7 +70,9 @@ Participants are encouraged to submit short abstracts describing their recently 
 
 Published work: Authors are required to submit a short abstract (250 words) by {{ site.ismb_talk_submission_deadline }}. Abstracts should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the abstract, unless the paper is open access.
 
-Unpublished work: Authors are required to submit an extended abstract (1500 words) by {{ site.ismb_talk_submission_deadline }}.  The text should include a concise description of the work and have descriptive figures. 
+Unpublished work: Authors are required to submit an extended abstract (1500 words) by {{ site.ismb_talk_submission_deadline }}.  The text should include a concise description of the work and have descriptive figures.  
+* [ISMB Abstract Guidelines](https://www.iscb.org/ismbeccb2021-submit/submit-abstracts)  
+* [**ISMB Talk Submission Form**](https://easychair.org/account/signin?l=Qtwki8qv7LdppT3m13DeXL#) (Select Biovis after logging in)
 
 ### 3. Posters and demos - *Submission Deadline: {{site.ismb_poster_submission_deadline}} (with late posters deadline June 3, 2021)*
 
@@ -81,7 +83,8 @@ We invite participants to submit work in progress and preliminary results, previ
 Authors are required to submit a short abstract (250 words) and a supporting figure by {{site.ismb_talk_submission_deadline}}.  Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access, where instead a direct link to the open access version should be provided.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
-
+* [ISMB Abstract Guidelines](https://www.iscb.org/ismbeccb2021-submit/submit-abstracts)  
+* [**ISMB Poster Submission Form**](https://easychair.org/account/signin?l=Qtwki8qv7LdppT3m13DeXL#) (Select Biovis after logging in)
 
 ## Important Dates
 
