@@ -77,7 +77,6 @@ permalink: /ismb/
               {% endif %}
              {% endfor %}
            </ul>
-      </div>
 </div>
 </div>
 
