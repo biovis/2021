@@ -1,5 +1,7 @@
 id,start,end,session,chair,title,authors,presenter,type
-1,11:10 , 12:00,July 26: BioVis Opening and Keynote,,BioVis Keynote: Inter-disciplinary practices in BioVis,Seán O’Donoghue,,keynote
+,11:00 , 11:10,July 26: BioVis Opening and Keynote,,,BioVis Opening,,
+,11:10 , 12:00,July 26: BioVis Opening and Keynote,,BioVis Keynote: Inter-disciplinary practices in BioVis,Seán O’Donoghue,,keynote
+,12:00 , 12:20,July 26: BioVis Opening and Keynote,,,BioVis 10th Anniversary - Test of Time Award Ceremony,,
 p73,12:40 , 13:00,July 26: Talk Session-1 (Genomics),,OncoThreads: Visualization of Large Scale Longitudinal Cancer Molecular Data,"Theresa Anisja Harbig, Sabrina Nusrat, Tali Mazor, Qianwen Wang, Alexander Thomson, Hans Bitter, Ethan Cerami and Nils Gehlenborg",,talk
 252,13:00 , 13:10,July 26: Talk Session-1 (Genomics),,Visualisation of Identical-By-State regions across multiple assembled genomes,"Ricardo Humberto Ramirez Gonzalez, Jemima Brinton and Cristobal Uauy",,talk
 486,13:10 , 13:20,July 26: Talk Session-1 (Genomics),,Visualization of SARS-CoV-2 Genome Atlas,"Kavya Vaddadi, Naina Tiwari, Aditya Rao, Vangala Govindakrishnan Saipradeep, Thomas Joseph, Rajgopal Srinivasan and Naveen Sivadasan",,talk
@@ -8,14 +10,19 @@ p73,12:40 , 13:00,July 26: Talk Session-1 (Genomics),,OncoThreads: Visualization
 359,13:50 , 14:00,July 26: Talk Session-1 (Genomics),,OmicsTIDE: Interactive Exploration of Trends in Multi-Omics Data,"Theresa Anisja Harbig, Julian Fratte, Michael Krone and Kay Nieselt",,talk
 580,14:20 , 14:40,July 26: Talk Session-2 (Cells & Omics),,State-based Visual Analysis of Disease Progression with ThreadStates,"Qianwen Wang, Tali Mazor, Theresa Anisja Harbig, Ethan Cerami and Nils Gehlenborg",,talk
 115,14:40 , 15:00,July 26: Talk Session-2 (Cells & Omics),,Vesalius: Image-free extraction and analysis of tissue anatomy by using image processing applied to sequencing base Spatial Transcriptomics,Patrick Martin,,talk
+,15:00 , 15:20,July 26: Talk Session-2 (Cells & Omics),,,BioVis Highlights Talk-1,,
+,15:20 , 16:20,Poster Hall / Scientific Research Exchange  / BoFs,,,,,poster
 279,11:00 , 11:10,July 27: Talk Session-3 (Machine Learning),,Benchmarking framework for optimal visualization and interpretability of high-dimensional separable data,Komlan Atitey and Benedict Anchang,,talk
 661,11:10 , 11:30,July 27: Talk Session-3 (Machine Learning),,Explaining Deep Learning Approaches in Drug Repurposing through Interactive Data Visualization,"Qianwen Wang, Kexin Huang, Payal Chandak, Marinka Zitnik and Nils Gehlenborg",,talk
 330,11:30 , 11:40,July 27: Talk Session-3 (Machine Learning),,Association Plots reveal cluster-specific genes from high-dimensional transcriptome data,Elzbieta Gralinska and Martin Vingron,,talk
 120,11:40 , 11:50,July 27: Talk Session-3 (Machine Learning),,Color encoding of high-dimensional data using the CIELAB color space and state-of-the-art dimensionality reduction techniques,"Mikaela Koutrouli, John H. Morris and Lars J. Jensen",,talk
 205,11:50 , 12:00,July 27: Talk Session-3 (Machine Learning),,Hierarchical interactive exploration and analysis of single cell RNA-seq datasets,"Jayaram Kancherla, Kazi Tasnim Zinat, Stephanie Hicks and Hector Corrada Bravo",,talk
+,12:00 , 12:20,July 27: Talk Session-3 (Machine Learning),,,BioVis Highlights Talk- 2,,
 p24,12:40 , 13:00,July 27: Talk Session-4 (Imaging Data & Pathways),,Metaball skinning of synthetic astroglial morphologies into realistic mesh models for in silico simulations and visual analytics,"Marwan Abdellah, Alessandro Foni, Eleftherios Zisis, Nadir Roman Guerrero, Samuel Lapere, Jay S. Coggan, Daniel Keller, Henry Markram and Felix Schürmann",,talk
 527,13:00 , 13:10,July 27: Talk Session-4 (Imaging Data & Pathways),,Interactive multiscale microscopy visualization on the web with Viv,"Trevor Manz, Nils Gehlenborg, Mark Keller, Ilan Gold and Chuck Mccallum",,talk
 437,13:10 , 13:30,July 27: Talk Session-4 (Imaging Data & Pathways),,Loon: Using Exemplars to Visualize Large Scale Microscopy Data,"Devin Lange, Eddie Polanco, Robert Judson-Torres, Thomas Zangle and Alexander Lex",,talk
 84,13:30 , 13:50,July 27: Talk Session-4 (Imaging Data & Pathways),,ShapoGraphy: a glyph-oriented visualisation approach for creating pictorial representations of bioimaging data,Heba Sailem,,talk
 509,13:50 , 14:00,July 27: Talk Session-4 (Imaging Data & Pathways),,An Extensive Visualization Suite for Pathway/Genome Databases,Peter Karp and Suzanne Paley,,talk
-2,14:20 , 15:10,July 27: BioVis Keynote and Closing,,BioVis Keynote: Theories of inference for visualization interactions,Jessica Hullman,,keynote
+,14:20 , 15:10,July 27: BioVis Keynote and Closing,,BioVis Keynote: Theories of inference for visualization interactions,Jessica Hullman,,keynote
+,15:10 , 15:20,July 27: BioVis Keynote and Closing,,,BioVis Award Ceremony & Closing,,
+,15:20 , 16:20,Poster Hall / Scientific Research Exchange  / BoFs,,,,,poster

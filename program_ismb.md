@@ -49,9 +49,7 @@ Seán O’Donoghue leads the BioVis Centre (<a href="http://odonoghuelab.org/">h
 
 
 ## Program
-#### The final programme will be announced in the beginning of June.
 Please note that all the times listed here are in **Eastern Daylight Time**.
-
 <br/>
 
 {% assign prevSession = "" %}
@@ -69,7 +67,7 @@ Please note that all the times listed here are in **Eastern Daylight Time**.
   <hr class="style-one" />
   <div>
 	{% if paper.start != nil %}	
-    <div class="sumTime2"> {{paper.start}} - {{end}}</div>
+    <div class="sumTime2"> {{paper.start}} - {{paper.end}}</div>
 	{% endif %}
     <div class="sumContent">{{paper.session}} {% if paper.chair != nil %}<div style="font-size:16px; padding-left:120px;">Chair: {{paper.chair}}</div>{%endif%}</div>
   </div>
