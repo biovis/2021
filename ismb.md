@@ -2,7 +2,7 @@
 layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
-location: within July 25-29, Online
+location: July 26-27, Online
 main_venue_rln: Co-located
 main_venue: ISMB 2021
 main_venue_url: https://www.iscb.org/ismbeccb2021
