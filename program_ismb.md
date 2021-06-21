@@ -56,9 +56,9 @@ Please note that all the times listed here are in **Eastern Daylight Time**.
 {% for paper in site.data.program2021 %}
   
   {% if prevSession != paper.session %}
-	{% for next in (forloop.index0..site.data.program2020.size) %}
+	{% for next in (forloop.index0..site.data.program2021.size) %}
 	    {% if site.data.program2020[next].session == paper.session %}
-			{% assign end = site.data.program2020[next].end%}
+			{% assign end = site.data.program2021[next].end%}
 		{% else %}
 			{% break %}
 		{% endif %}
