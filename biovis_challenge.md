@@ -74,7 +74,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		<strong>CRC:</strong> patient/cancer signifier (multiple samples per cancer)<br/><br/>
 		<strong>CMS:</strong> cancer molecular subtype	
 	</td>
-	<td><img class="img_table" src="/images/challange/image9.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image9.png"></td>
 </tr>
 
 <tr>
@@ -84,7 +84,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		Each file contains a single column, with each row number corresponding to a cell ID in <i>segmentation_mask.tiff</i>. Each row contains the cell type label for the corresponding cell in the sample.<br/><br/> 
 		The labels can be used for example to work directly on cell-based neighborhood visualizations, without using protein information.
 	</td>
-	<td><img class="img_table" src="/images/challange/image8.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image8.png"></td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		<i>Cell_id</i> column corresponds to those from <i>segmentation_mask.tiff</i>.<br/><br/>
 		Image_id column can be ignored.
 	</td>
-	<td><img class="img_table" src="/images/challange/image2.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image2.png"></td>
 </tr>
 
 <tr>
@@ -104,7 +104,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		Contains subfolders for each sample in <i>sample_ROI_information.csv</i>.<br/><br/>
 		Additionally DNA expression is provided in <i>DNA1.tiff</i> and <i>DNA2.tiff</i>. DNA might be useful for segmentation tasks but are not relevant for cell type identification, hence we provide them separately.
 	</td>
-	<td><img class="img_table" src="/images/challange/image3.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image3.png"></td>
 </tr>
 
 <tr>
@@ -115,7 +115,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		Filenames are named after their protein.<br/><br/>
 		All images are 8bit grayscale <i>.tiff</i>
 	</td>
-	<td><img class="img_table" src="/images/challange/image5.jpg"></td>
+	<td><img class="img_table" src="/2021/images/challange/image5.jpg"></td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		Raw DNA measurements that might be useful for segmentation tasks but are not relevant for cell type identification, hence we provide them separately.<br/><br/>
 		Images are 8bit grayscale <i>.tiff</i>
 	</td>
-	<td><img class="img_table" src="/images/challange/image1.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image1.png"></td>
 </tr>
 
 <tr>
@@ -134,7 +134,7 @@ Here are some potential challenges you can address in visualizing the provided d
 		Segmentation is provided as a 32bit single-channel tiff image, where each cell is labelled with a unique 32 bit integer <strong>(starting at 1!)</strong>. For illustration on the right, we assigned a random color to each unique number (cell).
 
 	</td>
-	<td><img class="img_table" src="/images/challange/image6.png"></td>
+	<td><img class="img_table" src="/2021/images/challange/image6.png"></td>
 </tr>
 
 </table>
