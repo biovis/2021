@@ -49,7 +49,7 @@ Seán O’Donoghue leads the BioVis Centre (<a href="http://odonoghuelab.org/">h
 
 
 ## Program
-Please note that all the times listed here are in **Eastern Daylight Time**.
+Please note that all the times listed here are in **Coordinated Universal Time (UTC)**.
 <br/>
 
 {% assign prevSession = "" %}
