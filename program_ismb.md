@@ -58,7 +58,7 @@ Please note that all the times listed here are in **Coordinated Universal Time (
   {% if prevSession != paper.session %}
 	{% for next in (forloop.index0..site.data.program2021.size) %}
 	    {% if site.data.program2021[next].session == paper.session %}
-			{% assign end = site.data.program2021[next].end%}
+			{% assign sessionEnd = site.data.program2021[next].end%}
 		{% else %}
 			{% break %}
 		{% endif %}
@@ -67,7 +67,7 @@ Please note that all the times listed here are in **Coordinated Universal Time (
   <hr class="style-one" />
   <div>
 	{% if paper.start != nil %}	
-    <div class="sumTime2"> {{paper.start}} - {{paper.end}}</div>
+    <div class="sumTime2"> {{paper.start}} - {{sessionEnd}}</div>
 	{% endif %}
     <div class="sumContent">{{paper.session}} {% if paper.chair != nil %}<div style="font-size:16px; padding-left:120px;">Chair: {{paper.chair}}</div>{%endif%}</div>
   </div>
