@@ -25,29 +25,29 @@ p24,12:40,13:00,July 27: Talk Session-4 (Imaging Data & Pathways),Zeynep Gumus,M
 509,13:50,14:00,July 27: Talk Session-4 (Imaging Data & Pathways),Zeynep Gumus,An Extensive Visualization Suite for Pathway/Genome Databases,Peter Karp and Suzanne Paley,,talk
 ,14:20,15:10,July 27: BioVis Keynote and Closing,Michael Krone & Cagatay Turkay,BioVis Keynote: Theories of inference for visualization interactions,Jessica Hullman,,keynote
 ,15:10,15:20,July 27: BioVis Keynote and Closing,Michael Krone & Cagatay Turkay,BioVis Award Ceremony & Closing,,Michael Krone & Cagatay Turkay,
-,,,Accepted Posters,,,,,poster
-8,,,Accepted Posters,,CooPer plots - the next level of UpSet plots,"Sarah Sandmann, Martin Dugas and Julian Varghese",,poster
-84,,,Accepted Posters,,ShapoGraphy: a glyph-oriented visualisation approach for creating pictorial representations of bioimaging data,Heba Sailem,,poster
-115,,,Accepted Posters,,Vesalius: Image-free extraction and analysis of tissue anatomy by using image processing applied to sequencing base Spatial Transcriptomics,Patrick Martin,,poster
-120,,,Accepted Posters,,Color encoding of high-dimensional data using the CIELAB color space and state-of-the-art dimensionality reduction techniques,"Mikaela Koutrouli, John H. Morris and Lars J. Jensen",,poster
-177,,,Accepted Posters,,SARS-CoV-2 variant timemaps,Rene Warren and Inanc Birol,,poster
-205,,,Accepted Posters,,Hierarchical interactive exploration and analysis of single cell RNA-seq datasets,"Jayaram Kancherla, Kazi Tasnim Zinat, Stephanie Hicks and Hector Corrada Bravo",,poster
-241,,,Accepted Posters,,TranScape VR – A tool for visualizing transcriptomic landscapes in Virtual Reality,Annika Kreikenbohm and Anda Iosip,,poster
-252,,,Accepted Posters,,Visualisation of Identical-By-State regions across multiple assembled genomes.,"Ricardo Humberto Ramirez Gonzalez, Jemima Brinton and Cristobal Uauy",,poster
-279,,,Accepted Posters,,Benchmarking framework for optimal visualization and interpretability of high-dimensional separable data,Komlan Atitey and Benedict Anchang,,poster
-330,,,Accepted Posters,,Association Plots reveal cluster-specific genes from high-dimensional transcriptome data,Elzbieta Gralinska and Martin Vingron,,poster
-359,,,Accepted Posters,,OmicsTIDE: Interactive Exploration of Trends in Multi-Omics Data,"Theresa Anisja Harbig, Julian Fratte, Michael Krone and Kay Nieselt",,poster
-437,,,Accepted Posters,,Loon: Using Exemplars to Visualize Large Scale Microscopy Data,"Devin Lange, Eddie Polanco, Robert Judson-Torres, Thomas Zangle and Alexander Lex",,poster
-479,,,Accepted Posters,,PlaToLoCo: platform of tools for low complexity regions in proteins,"Patryk Jarnot, Joanna Ziemska-Legięcka, Laszlo Dobson, Matthew Merski, Pablo Mier, Miguel Andrade-Navarro, John Hancock, Zsuzsanna Dosztányi, Lisanna Paladin, Marco Necci, Damiano Piovesan, Silvio Tosatto, Vasilis Promponas, Marcin Grynberg and Aleksandra Gruca",,poster
-486,,,Accepted Posters,,Visualization of SARS-CoV-2 Genome Atlas,"Kavya Vaddadi, Naina Tiwari, Aditya Rao, Vangala Govindakrishnan Saipradeep, Thomas Joseph, Rajgopal Srinivasan and Naveen Sivadasan",,poster
-501,,,Accepted Posters,,A look at trails through the pangenome visualization jungle,"Éloi Durant, Francois Sabot, Matthieu Conte and Mathieu Rouard",,poster
-506,,,Accepted Posters,,A Multi-scale Approach for Biological Graph Visualization: Local Analysis in Global Context,"Fahd Husain, Rosa Romero Gomez, Dario Segura, Adamo Carolli, Lai Chung Liu, Manfred Cheung and Yohann Paris",,poster
-507,,,Accepted Posters,,Grammar-Based Interactive Visualization of Genomics Data,"Sehi L'Yi, Qianwen Wang, Fritz Lekschas and Nils Gehlenborg",,poster
-509,,,Accepted Posters,,An Extensive Visualization Suite for Pathway/Genome Databases,Peter Karp and Suzanne Paley,,poster
-527,,,Accepted Posters,,Interactive multiscale microscopy visualization on the web with Viv,"Trevor Manz, Nils Gehlenborg, Mark Keller, Ilan Gold and Chuck Mccallum",,poster
-580,,,Accepted Posters,,State-based Visual Analysis of Disease Progression with ThreadStates,"Qianwen Wang, Tali Mazor, Theresa Anisja Harbig, Ethan Cerami and Nils Gehlenborg",,poster
-613,,,Accepted Posters,,Python and R packages for Interactive Visualization of Spatial Single-Cell Omics Data,"Mark Keller, Trevor Manz, Tessa Han, Ilan Gold, Chuck McCallum and Nils Gehlenborg",,poster
-661,,,Accepted Posters,,Explaining Deep Learning Approaches in Drug Repurposing through Interactive Data Visualization,"Qianwen Wang, Kexin Huang, Payal Chandak, Marinka Zitnik and Nils Gehlenborg",,poster
-675,,,Accepted Posters,,"PhosProViz: A web-based tool to generate, explore, and share interactive phosphoproteomics networks","Shreya Chandrasekar, Irene Font Peradejordi, Berk Turhan, Selim Kalayci, Jeffrey Johnson and Zeynep H. Gümüş",,poster
-719,,,Accepted Posters,,Lower Dimensional Representation for Spatial Transcriptomics Data in Hyperbolic Space,Mayank Musaddi and Anant Agarwal,,poster
-791,,,Accepted Posters,,CovRadar: Continuously tracking and filtering SARS-CoV-2 mutations for molecular surveillance,"Alice Wittig, Fábio Malcher Miranda, Martin Hölzer, Tom Altenburg, Jakub Bartoszewicz, Marius Dieckmann, Ulrich Genske, Sven Giese, Melania Nowicka, Henning Schiebenhoefer, Anna-Juliane Schmachtenberg, Ming Tang, Bernhard Renard and Stephan Fuchs",,poster
+,,,Accepted Posters (15:20 - 16:20 both days) ,,,,,poster
+8,,,Accepted Posters (15:20 - 16:20 both days) ,,CooPer plots - the next level of UpSet plots,"Sarah Sandmann, Martin Dugas and Julian Varghese",,poster
+84,,,Accepted Posters (15:20 - 16:20 both days) ,,ShapoGraphy: a glyph-oriented visualisation approach for creating pictorial representations of bioimaging data,Heba Sailem,,poster
+115,,,Accepted Posters (15:20 - 16:20 both days) ,,Vesalius: Image-free extraction and analysis of tissue anatomy by using image processing applied to sequencing base Spatial Transcriptomics,Patrick Martin,,poster
+120,,,Accepted Posters (15:20 - 16:20 both days) ,,Color encoding of high-dimensional data using the CIELAB color space and state-of-the-art dimensionality reduction techniques,"Mikaela Koutrouli, John H. Morris and Lars J. Jensen",,poster
+177,,,Accepted Posters (15:20 - 16:20 both days) ,,SARS-CoV-2 variant timemaps,Rene Warren and Inanc Birol,,poster
+205,,,Accepted Posters (15:20 - 16:20 both days) ,,Hierarchical interactive exploration and analysis of single cell RNA-seq datasets,"Jayaram Kancherla, Kazi Tasnim Zinat, Stephanie Hicks and Hector Corrada Bravo",,poster
+241,,,Accepted Posters (15:20 - 16:20 both days) ,,TranScape VR – A tool for visualizing transcriptomic landscapes in Virtual Reality,Annika Kreikenbohm and Anda Iosip,,poster
+252,,,Accepted Posters (15:20 - 16:20 both days) ,,Visualisation of Identical-By-State regions across multiple assembled genomes.,"Ricardo Humberto Ramirez Gonzalez, Jemima Brinton and Cristobal Uauy",,poster
+279,,,Accepted Posters (15:20 - 16:20 both days) ,,Benchmarking framework for optimal visualization and interpretability of high-dimensional separable data,Komlan Atitey and Benedict Anchang,,poster
+330,,,Accepted Posters (15:20 - 16:20 both days) ,,Association Plots reveal cluster-specific genes from high-dimensional transcriptome data,Elzbieta Gralinska and Martin Vingron,,poster
+359,,,Accepted Posters (15:20 - 16:20 both days) ,,OmicsTIDE: Interactive Exploration of Trends in Multi-Omics Data,"Theresa Anisja Harbig, Julian Fratte, Michael Krone and Kay Nieselt",,poster
+437,,,Accepted Posters (15:20 - 16:20 both days) ,,Loon: Using Exemplars to Visualize Large Scale Microscopy Data,"Devin Lange, Eddie Polanco, Robert Judson-Torres, Thomas Zangle and Alexander Lex",,poster
+479,,,Accepted Posters (15:20 - 16:20 both days) ,,PlaToLoCo: platform of tools for low complexity regions in proteins,"Patryk Jarnot, Joanna Ziemska-Legięcka, Laszlo Dobson, Matthew Merski, Pablo Mier, Miguel Andrade-Navarro, John Hancock, Zsuzsanna Dosztányi, Lisanna Paladin, Marco Necci, Damiano Piovesan, Silvio Tosatto, Vasilis Promponas, Marcin Grynberg and Aleksandra Gruca",,poster
+486,,,Accepted Posters (15:20 - 16:20 both days) ,,Visualization of SARS-CoV-2 Genome Atlas,"Kavya Vaddadi, Naina Tiwari, Aditya Rao, Vangala Govindakrishnan Saipradeep, Thomas Joseph, Rajgopal Srinivasan and Naveen Sivadasan",,poster
+501,,,Accepted Posters (15:20 - 16:20 both days) ,,A look at trails through the pangenome visualization jungle,"Éloi Durant, Francois Sabot, Matthieu Conte and Mathieu Rouard",,poster
+506,,,Accepted Posters (15:20 - 16:20 both days) ,,A Multi-scale Approach for Biological Graph Visualization: Local Analysis in Global Context,"Fahd Husain, Rosa Romero Gomez, Dario Segura, Adamo Carolli, Lai Chung Liu, Manfred Cheung and Yohann Paris",,poster
+507,,,Accepted Posters (15:20 - 16:20 both days) ,,Grammar-Based Interactive Visualization of Genomics Data,"Sehi L'Yi, Qianwen Wang, Fritz Lekschas and Nils Gehlenborg",,poster
+509,,,Accepted Posters (15:20 - 16:20 both days) ,,An Extensive Visualization Suite for Pathway/Genome Databases,Peter Karp and Suzanne Paley,,poster
+527,,,Accepted Posters (15:20 - 16:20 both days) ,,Interactive multiscale microscopy visualization on the web with Viv,"Trevor Manz, Nils Gehlenborg, Mark Keller, Ilan Gold and Chuck Mccallum",,poster
+580,,,Accepted Posters (15:20 - 16:20 both days) ,,State-based Visual Analysis of Disease Progression with ThreadStates,"Qianwen Wang, Tali Mazor, Theresa Anisja Harbig, Ethan Cerami and Nils Gehlenborg",,poster
+613,,,Accepted Posters (15:20 - 16:20 both days) ,,Python and R packages for Interactive Visualization of Spatial Single-Cell Omics Data,"Mark Keller, Trevor Manz, Tessa Han, Ilan Gold, Chuck McCallum and Nils Gehlenborg",,poster
+661,,,Accepted Posters (15:20 - 16:20 both days) ,,Explaining Deep Learning Approaches in Drug Repurposing through Interactive Data Visualization,"Qianwen Wang, Kexin Huang, Payal Chandak, Marinka Zitnik and Nils Gehlenborg",,poster
+675,,,Accepted Posters (15:20 - 16:20 both days) ,,"PhosProViz: A web-based tool to generate, explore, and share interactive phosphoproteomics networks","Shreya Chandrasekar, Irene Font Peradejordi, Berk Turhan, Selim Kalayci, Jeffrey Johnson and Zeynep H. Gümüş",,poster
+719,,,Accepted Posters (15:20 - 16:20 both days) ,,Lower Dimensional Representation for Spatial Transcriptomics Data in Hyperbolic Space,Mayank Musaddi and Anant Agarwal,,poster
+791,,,Accepted Posters (15:20 - 16:20 both days) ,,CovRadar: Continuously tracking and filtering SARS-CoV-2 mutations for molecular surveillance,"Alice Wittig, Fábio Malcher Miranda, Martin Hölzer, Tom Altenburg, Jakub Bartoszewicz, Marius Dieckmann, Ulrich Genske, Sven Giese, Melania Nowicka, Henning Schiebenhoefer, Anna-Juliane Schmachtenberg, Ming Tang, Bernhard Renard and Stephan Fuchs",,poster
