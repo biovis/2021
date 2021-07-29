@@ -36,8 +36,11 @@ menu: main
 
 
 ## Steering Committee
-[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
+[Jim Procter](https://www.lifesci.dundee.ac.uk/people/jim-procter), University of Dundee, UK<br />
 [G. Elisabeta Marai](https://www.evl.uic.edu/marai/), University of Illinois at Chicago, USA<br />
 [Kay Nieselt](http://it.inf.uni-tuebingen.de/), University of Tübingen, Germany<br />
 [Marc Streit](http://marc-streit.com/), Johannes Kepler University Linz, Austria<br />
 [Jan Aerts](http://vda-lab.be), KU Leuven and U Hasselt, Belgium<br />
+
+**Honored Members**  
+[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), (passed away [April 2021](https://www.tue.nl/en/news-and-events/news-overview/29-04-2021-in-memoriam-dr-michel-westenberg/)) Eindhoven University of Technology, The Netherlands<br />
