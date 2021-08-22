@@ -31,6 +31,10 @@ img.img_table{
 <h3> Submission for the 2020 BioVis challenges are now closed. Check out all the great talks coming up at <a href = " {{site.baseurl}}/program_ieee" > our virtual event </a> on October 26th 2020 </h3>
 </div>-->
 
+## SUBMISSION INSTRUCTIONS
+Please send a two-page PDF abstract with unlimited additional figures and a poster draft (max 10MB) to 
+[biovis_challenge@ieeevis.org](mailto:biovis_challenge@ieeevis.org) before **September 21st 2021, 23:59 PDT**. 
+If accepted, you will be invited to send a short video for presentation at the workshop.
 
 ## BioVIS CHALLENGE: “Spatial –omics Visualization” 
 Recent years have witnessed an explosion in spatial –omics technologies, such as spatial transcriptomics or proteomics. Nature Methods has declared spatial transcriptomics the method of the year [1], recognizing its importance. These -omics methods measure the expressions of tens of proteins to thousands of biomolecules simultaneously and map the corresponding values to spatial positions in tissue. They mostly (especially in proteomics) acquire data at sub-cellular resolution, allowing the identification of individual cells and their interplay in tissue and, as such, offer unprecedented insights into the complex and diverse tissue microenvironment. However, visually exploring spatial data is still a highly challenging task.
