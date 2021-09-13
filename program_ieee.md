@@ -10,7 +10,7 @@ back_url: ieeevis
 
 **When:** October 25, 2021, (Central Daylight Time, CDT)
 
-**Location:** New Orleans (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
+**Location:** Virtual (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
 <a name="agenda"></a>
 
